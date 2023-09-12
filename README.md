@@ -1,5 +1,7 @@
 # Bonus: JavaScript Object-ball
 
+Hi Haylee
+
 ## Learning Goals
 
 - Practice building nested objects
